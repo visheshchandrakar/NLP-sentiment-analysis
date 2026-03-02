@@ -4,6 +4,10 @@ This project implements a Sentiment Analysis system using classical Natural Lang
 
 The model predicts whether a given sentence expresses positive or negative sentiment.
 
+##Demo
+<img width="950" height="892" alt="Screenshot 2026-03-03 004136" src="https://github.com/user-attachments/assets/54167ed7-66c8-443d-a50c-d7ab3c85333d" />
+
+
 ## Project Overview
 
 The pipeline includes:
