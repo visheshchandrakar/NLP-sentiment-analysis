@@ -2,5 +2,6 @@ pandas
 scikit-learn
 nltk
 datasets
-streamlit
+streamlit==1.29.0
 joblib
+altair==4.2.2
